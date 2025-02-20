@@ -1,3 +1,3 @@
 # Plato
 Automation Training
-Author: Sangeeta Nandy
+Author - Sangeeta Nandy
